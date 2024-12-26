@@ -11,6 +11,11 @@ This project explores the phenomenon of **flow-induced vibrations** in fluid dyn
 
 ---
 
+##  Project Setup Image
+<p align="center">
+  <img src="https://github.com/gopaljyani2005/fluid-mechanics/blob/main/public/setup.jpg" alt="project-image" style="border: 2px solid #0078D7; border-radius: 10px;">
+</p>
+
 ## 📋 Table of Contents
 1. [📖 Introduction](#-introduction)
 2. [🎯 Objectives](#-objectives)
